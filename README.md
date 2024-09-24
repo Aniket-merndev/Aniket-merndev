@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN STACK DEVELOPMENT
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on MERN Dev
-- 📫 How to reach me - aniketdey1279@gmail.com
+- 📫 How to reach me - aniketdeytiu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Rabbit Took Revenge on the Turtle :) 
 
