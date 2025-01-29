@@ -1,3 +1,5 @@
+<!---
+
 - 👋 Hi, I’m @Aniket-merndev
 - 👀 I’m interested in MERN STACK DEVELOPMENT
 - 🌱 I’m currently learning AI & ML
@@ -5,6 +7,8 @@
 - 📫 How to reach me - aniketdeytiu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Rabbit Took Revenge on the Turtle :) 
+
+--->
 
 <!---
 Aniket-merndev/Aniket-merndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
